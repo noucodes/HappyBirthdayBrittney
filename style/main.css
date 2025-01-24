@@ -109,11 +109,11 @@ body {
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 44.5%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -35%;
-  width: 80px;
+  top: -17%;
+  width: 35px;
 }
 
 .baloons img {
@@ -228,25 +228,25 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 40%;
+    left: 48%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 37%;
+    left: 35%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 32%;
+    left: 24%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 40%;
   }
 }
 
